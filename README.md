@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @elrho
-- 👀 I’m interested in beginners python and java projects as I am looking to expand my knowledge of these languages.
-- 🌱 I’m currently learning python and starting javascript 
+- 👋 Software developer developing projects in Kotlin
 - 💞️ 
 - 📫 
 
