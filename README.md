@@ -1,6 +1,5 @@
-- 👋 Software developer developing projects in Kotlin
-- 💞️ 
-- 📫 
+👋 Software developer developing projects in Kotlin
+
 
 <!---
 elrho/elrho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
